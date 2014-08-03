@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'penta_git/cli'
+PentaGit::CLI.start(ARGV)
